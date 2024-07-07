@@ -3,7 +3,7 @@ import styled from "styled-components";
 import Image from "next/image";
 import qrCodeImage from "@/images/image-qr-code.png";
 
-export default function () {
+export default function QRCode() {
   return (
     <Container>
       <Image src={qrCodeImage} alt="Image of QR Code" />
