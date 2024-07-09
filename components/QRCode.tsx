@@ -37,11 +37,11 @@ const Header = styled.h1`
   color: var(--color-dark-blue);
   font-weight: 700;
   font-size: 22px;
-  margin: 1.25rem 0;
+  margin: 1rem 0;
 `;
 
 const Text = styled.p`
   color: var(--color-grayish-blue);
   font-size: 15px;
-  margin: 0 1.5rem;
+  margin: 0 1.25rem;
 `;
