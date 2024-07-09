@@ -20,7 +20,7 @@ const Container = styled.div`
   width: 320px;
   height: 497px;
   background-color: var(--color-white);
-  border-radius: 16px;
+  border-radius: 1.5rem;
   overflow: hidden;
   padding: 1rem;
   text-align: center;
@@ -37,11 +37,11 @@ const Header = styled.h1`
   color: var(--color-dark-blue);
   font-weight: 700;
   font-size: 22px;
-  margin: 1rem 0;
+  margin-top: 1.5rem;
 `;
 
 const Text = styled.p`
   color: var(--color-grayish-blue);
   font-size: 15px;
-  margin: 0 1.25rem;
+  margin: 1rem 1.25rem 0;
 `;
